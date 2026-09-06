@@ -27,7 +27,7 @@ module.exports = {
     if (lower.startsWith("bot ")) return;
 
     const msgs = [
-      "Han g bolo sun RHA hu Jan 🥰",
+      "Tere Kala mo Sa pta Chal raha ha To Kanjos ha🥰",
       "kia masla 🤨",
       "Han han bolo Jan 🥰",
       "aby ruk tare to bot bot krta rehta 😾",
@@ -40,9 +40,9 @@ module.exports = {
       "Number do Raat ko babu shona kry gy 🙈",
       "Gongi Bhi bot bol rhi thi 😒",
       "Aik jhapar lgy ga Sara bot nikl JYE ga 👋",
-      "ary yarr busy hu abhi 🕵️‍♂️",
+      "Mera Boss Raja ha Bus🕵️‍♂️",
       "AJ phr mujha pa peyar Aya hy 🙈",
-      "Sardar ya dekh lo mujha Cher rhy hy 🥺",
+      "Raja  ya dekh lo mujha Cher rhy hy 🥺",
       "Abhi kholly pase nhi hy 😒 Kal ana Kal",
       "han Janam number Dena hy kia 🙈",
       "Tu hath dhokay baat kr 😏",
@@ -80,9 +80,9 @@ module.exports = {
       "Tera msg dekh kr sms pack khatam ho gya 📱",
       "Tu mujhe chhota bta rha hy? Aaja hath dekhta hu 🥊",
       "Bolo bolo sun rha hu 😌",
-      "Kia chahiye tumhe 🙄",
+      "Pese do Apko Chars pilao 🙄",
       "Acha acha samajh gaya bolo 😏",
-      "Yahan hu mai 🤗",
+      "TERE marny Ka bad Tere Chawal khaonga 🤗",
       "Kia hua bata do mujhe 😇",
       "Haan janeman bolo 💁",
       "Dekh rha tha tujhe hi 😒",
@@ -92,7 +92,7 @@ module.exports = {
       "Bol na dil ki baat 🥺",
       "Haan haan bolo kia kehna tha 😑",
       "Kia masla hy apko 😤",
-      "Uth gaya hu ab bolo 🥱",
+      "Charsi Ha To Bhag ja 🥱",
       "Mil le pehle phir baat karna 😒",
       "Busy hu yaar baad mein aana 🕵️‍♂️"
     ];
