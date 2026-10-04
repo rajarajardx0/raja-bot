@@ -47,7 +47,7 @@ module.exports = {
       "han Janam number Dena hy kia 🙈",
       "Tu hath dhokay baat kr 😏",
       "Mera dimagh kha rha hy tu 🤯",
-      "Itna pyar tu Allah ko b ni krta 😂",
+      "Mere Boss Raja Ha Wo Hukm Dega BaT Manonga bus  🚌",
       "Hatt pagal 🖐️",
       "Tere bina chain ni aanda 😫",
       "Chup kr oye fake lover 👻",
